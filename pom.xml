@@ -97,6 +97,15 @@
             <version>${logback.version}</version>
         </dependency>
     </dependencies>
+         
+    <distributionManagement>
+       <repository>
+               <id>jfrog</id>
+               <name>Jfrog repo</name>
+               <url>http://52.15.42.255:8082/artifactory/Pipelineproject/</url>
+       </repository>
+    </distributionManagement>
+
     <build>
         <plugins>
             <plugin>
