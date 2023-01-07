@@ -102,7 +102,7 @@
        <repository>
                <id>jfrog</id>
                <name>Jfrog repo</name>
-               <url>http://52.15.42.255:8082/artifactory/Pipelineproject/</url>
+               <url>http://3.19.61.156:8082/artifactory/Pipelineproject/</url>
        </repository>
     </distributionManagement>
 
